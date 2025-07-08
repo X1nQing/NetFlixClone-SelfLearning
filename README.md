@@ -42,14 +42,18 @@ This project replicates the modern Netflix interface and includes key functional
 - https://firebase.google.com/
 
 ---
+## Prerequisites
+
+[Node.js](https://nodejs.org/en) >= v20.19.0 or v22.12.0
+
 
 ## 🔧 Getting Started
 
 1. Clone the repository
 
 ```
-git clone https://github.com/X1nQing/NetflixClone---Self-Learn.git
-cd NetflixClone---Self-Learn
+git clone https://github.com/X1nQing/NetFlixClone-SelfLearning.git
+cd NetFlixClone-SelfLearning
 ```
 
 2. Install the Dependencies
